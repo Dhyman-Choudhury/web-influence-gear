@@ -44,6 +44,7 @@ body{
     font-size: 1rem;
     border: none;
     padding: 10px 30px 10px 24px ;
+    margin-top: 10px;
  }
  
 /* header section styles */
@@ -158,6 +159,8 @@ body{
     font-weight:700;
     font-size:2rem;
     color: #0A0826;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /* Footer section style */
@@ -169,9 +172,14 @@ body{
     color: #FFFFFF;
     text-align: center;
 }
+.footer_content p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 .footer_icon{
     margin: 0px auto;
     text-align: center;
+    margin-top: 10px;
     margin-right: 20px;
     color: #FFFFFF;
 }
